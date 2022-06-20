@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(34, 34, 34);
+    color:dodgerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+h4{
+    color: crimson;
+    margin-top: 4px;
+}
+
+h4 a{
+    text-decoration: none;
+    color: crimson;
+}
+
+.nav{
+    list-style-type: none;
+    padding: 7px 7px 7px 0px;
+    background-color: rgb(51, 48, 48);
+    width: 25%;
+}
+
+.li_nav{
+    display: inline;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.main_cont{
+    text-align: center;
+}
+
+.about_link{
+    background-color: rgb(34, 34, 34);
+    color: orange;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+.about_link:hover{
+    color: crimson;
+    background-color:beige;
+}
+
+.jumbotron{
+    margin-top: 20px;
+    text-align: left;
+}
+
+a:visited{
+    color: dodgerblue;
+}
+
+.card{
+    text-align: center;
+    background-color: rgb(51, 48, 48);
+    border-radius: 10px;
+    width: 50%;
+    margin:auto;
+    margin-top: 3px;
+}
+
+li{
+    list-style-position: inside;
+}
